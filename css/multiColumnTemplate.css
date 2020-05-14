@@ -432,10 +432,10 @@ body {
 	width: 100px;
 	border-radius: 200px;
 	height: 100px;
-	margin-left: auto;
+	margin-left: 30%;
 }
 .thumbnail_align {
-	text-align: center;
+	align-items: center;
 }
 .social {
 	text-align: center;
