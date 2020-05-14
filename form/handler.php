@@ -21,5 +21,5 @@ $validator->field('comments')->maxLength(6000);
 
 
 
-$pp->sendEmailTo('drete457@gmail.com');
+$pp->sendEmailTo('info@dynamicrow.eu');
 echo $pp->process($_POST);
